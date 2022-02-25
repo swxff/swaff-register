@@ -1,0 +1,36 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "315875588906680330",
+    "prefix" : ".",
+    "footer" : "Swaff ❤️ Nyks",
+
+    "tag" : "♆",
+    "etikettag" : "",
+    "sembol" : "♆",
+  
+    "yetkiliRol" : ["946368323774455818"],
+    "vipRol" : "946368435514921000",
+    "boosterRol" : "BOOSTER ROL ID",
+    "kayıtsızRol" : "946427701273698324",
+    "erkekRol1" : "946368461888696400",
+    "erkekRol2" : "946368457816014889",
+    "erkekRol3" : "946368454292815903",
+    "kadınRol1" : "946368450610204702",
+    "kadınRol2" : "946368446910849044",
+    "kadınRol3" : "946368442909483088",
+    "kadınRol3" : "946368442909483088",
+
+    "tagRol" : "946368431823912960",
+    "tagLog" : "946428337281196072",
+
+    "SunucuID" : "946361045600071690",
+    "hosgeldinKanal" : "946368825811677215",
+    "sohbetKanal" : "946368930698649642", 
+    "botSesKanal" : "946368924369440788",
+  
+    "yes" : "<a:onay:946430100461731851>",
+    "no" : "<a:red:946430085592924270>"
+}
